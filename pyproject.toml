@@ -1,0 +1,9 @@
+﻿[project]
+name = "10-football-data-quality-auditor"
+version = "0.1.0"
+description = "瀵瑰疄鏃?API 涓庣绾?JSON 鏁版嵁杩涜缂哄け銆侀噸澶嶃€佹椂闂村尯闂淬€佺悆闃熷悕褰掍竴鍖栧拰姣斿垎涓€鑷存€у璁°€?
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+
