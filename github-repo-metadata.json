@@ -1,0 +1,53 @@
+{
+  "repository_name": "10-football-data-quality-auditor",
+  "description": "Football data quality auditor for soccer dataset validation, match data QA, duplicate checks and sports data governance.",
+  "topics": [
+    "football-data-quality",
+    "soccer-data-validation",
+    "sports-data-audit",
+    "data-quality",
+    "dataset-validation",
+    "match-data",
+    "football-dataset",
+    "openfootball",
+    "football-data-org",
+    "python",
+    "pytest",
+    "qa-tools",
+    "data-engineering",
+    "seo-ready",
+    "github-search"
+  ],
+  "visibility": "public",
+  "homepage": "",
+  "default_branch": "main",
+  "about_section": {
+    "description": "Football data quality auditor for soccer dataset validation, match data QA, duplicate checks and sports data governance.",
+    "topics": [
+      "football-data-quality",
+      "soccer-data-validation",
+      "sports-data-audit",
+      "data-quality",
+      "dataset-validation",
+      "match-data",
+      "football-dataset",
+      "openfootball",
+      "football-data-org",
+      "python",
+      "pytest",
+      "qa-tools",
+      "data-engineering",
+      "seo-ready",
+      "github-search"
+    ],
+    "website": "Set after Resource Portals domain is confirmed"
+  },
+  "github_search_intent": [
+    "repository name",
+    "description",
+    "topics",
+    "README first screen",
+    "docs titles",
+    "examples and tests"
+  ]
+}
