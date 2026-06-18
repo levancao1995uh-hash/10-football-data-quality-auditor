@@ -32,3 +32,7 @@ This repository is optimized for GitHub search around **football-data-quality**,
 ## README first-screen requirements
 
 The README first screen should keep the primary keyword, data sources, quickstart, and project purpose visible before users scroll too far. It should also link to API integration, SEO keywords, traffic page matrix, dataset card, and Resource Portals.
+
+## Voice differentiation
+
+This repository uses the **Football Data Quality Auditor** voice: Trust the match data before you trust the chart. The README structure is intentionally different from sibling repositories to reduce template similarity in GitHub discovery.
